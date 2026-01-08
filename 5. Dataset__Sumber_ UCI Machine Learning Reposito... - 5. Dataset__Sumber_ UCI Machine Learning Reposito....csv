@@ -1,0 +1,8 @@
+Nama Atribut,Deskripsi,Kategori Nilai
+Buying,Harga beli mobil,"vhigh, high, med, low"
+Maint,Harga biaya perawatan,"vhigh, high, med, low"
+Doors,Jumlah pintu,"2, 3, 4, 5-more"
+Persons,Kapasitas penumpang,"2, 4, more"
+Lug_boot,Ukuran bagasi,"small, med, big"
+Safety,Tingkat keamanan,"low, med, high"
+Class (Target),Label Kelayakan,"unacc, acc, good, vgood"
